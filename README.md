@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matt-beanland
 - 👀 I’m interested in autonomous networks
-- 🌱 I’m currently learning elixir and ash framework
+- 🌱 I’m coding with elixir and ash framework
 - 💞️ I’m looking to collaborate on #diffo, an open source, declarative, intent driven, differencing TMF service and resource manager  [diffo.dev](https://github.com/diffo-dev)
 - 📫 How to reach me on beanland@live.com.au
 - 😄 Pronouns: ...
